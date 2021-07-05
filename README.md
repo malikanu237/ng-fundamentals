@@ -36,4 +36,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 6. Add all changes to github by running `git add .`
 7. Commit your added changes by running `git commit -m 'some useful commit message'`
 8. Push your changes to github by running `git push origin main`
+9. To create a branch, Run `git checkout -b feature/adding-events`
+10. To switch branches, run `git checkout main`
+11. To remove all changes to current branch (not yet commited), Run `git checkout .`
+12. to remove new files which are not yet commited, Run `git clean -fd`
 
