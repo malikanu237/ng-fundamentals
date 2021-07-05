@@ -35,5 +35,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 5. Make changes to project
 6. Add all changes to github by running `git add .`
 7. Commit your added changes by running `git commit -m 'some useful commit message'`
-8. Push your changes to github by running `git push`
+8. Push your changes to github by running `git push origin main`
 
